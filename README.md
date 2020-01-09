@@ -1,4 +1,22 @@
+<HEAD>
+<SCRIPT language="JavaScript">
+<!--hide
 
+var password;
+var pass1="James1";
+
+password=prompt('Please enter your password to view this page!',' ');
+
+if (password==pass1)
+  alert('Password Correct! Click OK to enter!');
+else
+   {
+    window.location="jamesfazzalari.com";
+    }
+
+//-->
+</SCRIPT>
+</HEAD>
 <h2 style="text-align: center;">
 <br /></h2>
 <h2 style="text-align: center;">
