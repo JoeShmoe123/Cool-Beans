@@ -11,7 +11,7 @@ if (password==pass1)
   alert('Password Correct! Click OK to enter!');
 else
    {
-    window.location="jamesfazzalari.com";
+    window.location="google.com";
     }
 
 //-->
