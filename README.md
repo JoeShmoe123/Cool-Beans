@@ -5,7 +5,7 @@
 var password;
 var pass1="*******";
 
-password=prompt('Please enter your password to view this page!',' ');
+password=prompt('For security, This page is password protected',' ');
 
 if (password==pass1)
   alert('Click OK to continue');
