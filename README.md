@@ -1,11 +1,6 @@
 <h2 style="text-align: center;">
-⚠️⚠️⚠️On Behalf Of James Fazzalari, The Pictures Of James Have Been Removed. Sorry To Those Who Wanted To View Pictures Of Him⚠️⚠️⚠️</h2>
-<h3 style="text-align: center;">
-For now here is a flash game :)</h3>
+<br /></h2>
+<h2 style="text-align: center;">
+This is what you would look like is you did drugs. Don't do drugs</h2>
 <div style="text-align: center;">
-Posted on: 12/20/2019<br />
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<embed height="880" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="https://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/22478/original/mega_miner.swf" type="application/x-shockwave-flash" width="1220"></div>
-</div>
-<head>
-  <script data-ad-client="ca-pub-8052951957478605" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
+<a href="https://i.redd.it/9nm4vws6dpn21.jpg" imageanchor="1"><img alt="Image result for gfuel powder pewdiepie after" border="0" height="640" src="https://i.redd.it/9nm4vws6dpn21.jpg" width="518" /></a></div>
