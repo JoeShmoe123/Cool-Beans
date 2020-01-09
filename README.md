@@ -8,10 +8,10 @@ var pass1="James1";
 password=prompt('Please enter your password to view this page!',' ');
 
 if (password==pass1)
-  alert('Password Correct! Click OK to enter!');
+  alert('Click OK to continue');
 else
    {
-    window.location="jamesfazzalari.com";
+    window.location="";
     }
 
 //-->
