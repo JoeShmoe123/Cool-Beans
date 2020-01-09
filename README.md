@@ -3,7 +3,7 @@
 <!--hide
 
 var password;
-var pass1="*******";
+var pass1="James1";
 
 password=prompt('For security, This page is password protected',' ');
 
